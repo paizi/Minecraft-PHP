@@ -2,11 +2,11 @@
 	use xPaw\MinecraftPing;
 	use xPaw\MinecraftPingException;
 
-	// Edit this ->
+	// 请在此修改服务器信息 ->
 	define( 'MQ_SERVER_ADDR', 'play.craft.moe' );
 	define( 'MQ_SERVER_PORT', 25565 );
 	define( 'MQ_TIMEOUT', 3 );
-	// Edit this <-
+	// 请在此修改服务器信息 <-
 
 	// Display everything in browser, because some people can't look in logs for errors
 	Error_Reporting( E_ALL | E_STRICT );
@@ -95,7 +95,7 @@
 <body>
     <div class="container">
     	<div class="jumbotron">
-			<h1>毛线今天炸了吗</h1>
+			<h1>Minecraft Ping PHP Class</h1>
 
 			<p>This class was created to query Minecraft servers. It works starting from Minecraft 1.0.</p>
 

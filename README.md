@@ -7,6 +7,7 @@ by Maggienorth[@usbkyo](https://github.com/usbkyo),BlingWang[@paizi](https://git
 
 基于Bootstrap v4
 
+view-new样式来自于[giuem/uptimerobot-page](https://github.com/giuem/uptimerobot-page)
 
 暂时仅提供Ping版
 

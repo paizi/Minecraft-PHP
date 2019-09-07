@@ -123,7 +123,7 @@
 	<td>部分在线玩家</td>
 	<td><?php echo $players ; ?></td>
 	</tr>
-	</table>
+	</table><br>
 			<?php else: ?>
 		<div class="ui container">
 			<br>

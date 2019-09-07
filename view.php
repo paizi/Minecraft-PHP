@@ -2,7 +2,7 @@
 	use xPaw\MinecraftPing;
 	use xPaw\MinecraftPingException;
 
-	define( 'MQ_SERVER_ADDR', 'play.craft.moe' );
+	define( 'MQ_SERVER_ADDR', 'input--your--server--address--here' );
 	define( 'MQ_SERVER_PORT', 25565 );
 	define( 'MQ_TIMEOUT', 3 );
 
@@ -78,7 +78,7 @@
 	<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
 	<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0,user-scalable=no, minimal-ui">
-	<title>Kedama Online Player Stats</title>
+	<title>Online Player Stats</title>
 </head>
 <?php
 //$address = 'https://api.ipfinder.io/v1/';
@@ -109,7 +109,7 @@
 	<table class="ui celled table">
 	<tr>
 		<td>服务器名称</td>
-		<td><i class="jp<?php //echo strtolower($deip->country_code); ?> flag"></i>毛玉线圈物语</td>
+		<td><i class="你的服务器所在国别缩写<?php //echo strtolower($deip->country_code); ?> flag"></i>你的服务器名称</td>
 	</tr>
 	<tr>
 		<td>最大人数</td>

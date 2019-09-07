@@ -14,3 +14,5 @@ view-new样式来自于[Semantic UI](https://semantic-ui.com)
 第81行网页标题
 
 第112行服务器所在国别缩写、服务器名称
+
+如需自动识别服务器所在国家，请在[IP Finder](https://ipfinder.io) 注册一个免费的API KEY，和ip分别填入85行和86行中，并且取消84-88行和112行的注释

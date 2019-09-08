@@ -8,6 +8,9 @@ by Maggienorth[@usbkyo](https://github.com/usbkyo),BlingWang[@paizi](https://git
 view-new样式来自于[Semantic UI](https://semantic-ui.com)
 
 
+[演示地址](https://labs.blingwang.cn/mcphp)
+
+
 ### 需要修改的配置
 第5行服务器地址、端口
 
